@@ -7,7 +7,7 @@ This program uses the BeautifulSoup library to search through the job search web
 <br />
 <p align="center">
   <a>
-    <img src="/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/img/most-mentioned-degrees.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Indeed Scraper Analysis</h3>
@@ -15,9 +15,9 @@ This program uses the BeautifulSoup library to search through the job search web
   <p align="center">
     An awesome indeed scraper that will store and analyze the results!
     <br />
-    <a href="https://github.com/Alejandro-Vega/Pathfinding-Visualizer/issues">Report Bug</a>
+    <a href="https://github.com/Alejandro-Vega/Indeed-Scraper-Analysis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Alejandro-Vega/Pathfinding-Visualizer/issues">Request Feature</a>
+    <a href="https://github.com/Alejandro-Vega/Indeed-Scraper-Analysis/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,7 +36,6 @@ This program uses the BeautifulSoup library to search through the job search web
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -45,7 +44,6 @@ This program uses the BeautifulSoup library to search through the job search web
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -81,13 +79,6 @@ I used Python and the BeautifulSoup library to scrape all of the data. Meanwhile
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
