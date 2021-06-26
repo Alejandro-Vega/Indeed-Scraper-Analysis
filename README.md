@@ -51,7 +51,7 @@ This program uses the BeautifulSoup library to search through the job search web
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/images/example-scrape-1.png)
+[![Product Name Screen Shot][product-screenshot]](/img/example-scrape-1.png)
 
 The project was used for researching the current job listings in my area for the Computer Science field. It aided me in writing a research paper that further analyzed the results gathered from the program.
 
